@@ -55,3 +55,7 @@ Nous avons également des images en gris ou en couleur:
   ![image](images/6.png)
 
 * Images en couleur: qui sont codées sur 8bits (0 à 255) et constituées de 3 couches.
+
+  * **RGB**
+  
+    ![image](images/7.png)
