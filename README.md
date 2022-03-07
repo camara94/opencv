@@ -59,3 +59,7 @@ Nous avons également des images en gris ou en couleur:
   * **RGB**
   
     ![image](images/7.png)
+
+  * **RGB VGA**
+  
+    ![image](images/8.png)
