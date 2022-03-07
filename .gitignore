@@ -127,3 +127,17 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+/my-opencv/Lib
+/my-opencv/Include
+/my-opencv/Scripts
+/my-opencv/*.exe
+/my-opencv/*.bat
+/my-opencv/*.cfg
+
+/Tensorflow
+/.ipynb_checkpoints
+/ipynb_checkpoints
+.ipynb_checkpoints
+
