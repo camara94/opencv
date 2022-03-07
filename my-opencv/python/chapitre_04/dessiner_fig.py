@@ -11,6 +11,8 @@ cv2.line(image, (0, 512), (512, 0), (0, 252, 0), 3)
 
 cv2.line(image, (0, 256), (512, 256), (512, 252, 0), 3)
 
+cv2.rectangle(image, (0, 0), (512, 256), (512, 252, 0), 3)
+
 cv2.imshow('dessiner une fig', image)
 
 cv2.waitKey(0)
