@@ -63,3 +63,10 @@ Nous avons également des images en gris ou en couleur:
   * **RGB VGA**
   
     ![image](images/8.png)
+
+## Installation d'OpenCV
+
+* de préference installer Python 3.7
+  [https://www.python.org/downloads/](https://www.python.org/downloads/)
+* installer vscode et extensions python
+  [https://code.visualstudio.com/](https://code.visualstudio.com/)
