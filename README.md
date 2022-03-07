@@ -30,3 +30,8 @@ Introduction à l'installation des images
 * Au fait les ordinateurs voient des images comme des chiffres de de 0 ou de 1 et  8bit autrement dit de 0 à 255 niveaux de nuances.
 
 ![image](images/2.png)
+
+
+ou 
+
+![image](images/4.png)
