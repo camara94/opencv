@@ -17,4 +17,7 @@ cv2.circle(image, (256, 256), 45, (0, 0, 45), 4)
 
 cv2.imshow('dessiner une fig', image)
 
+cv2.putText(image, "LABY DAMARO CAMARA", (300, 200),
+            cv2.FONT_HERSHEY_SIMPLEX, 1, (255, 0, 0), 3)
+
 cv2.waitKey(0)
