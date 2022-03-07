@@ -45,3 +45,8 @@ Nous avons aussi des normes normes d'affichages des images c'est à dire qui cod
 * 4K
 
 ![image](images/3.png)
+
+## Types d'Images
+
+Nous avons également des images en gris ou en couleur: 
+* Images en gris: qui sont codées sur 8bits (0 à 255) et constituées d'une seule couche.
