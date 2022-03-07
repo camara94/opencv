@@ -9,7 +9,7 @@ image = cv2.imread(image_ul)
 print(image.shape)
 
 # comment redimensionner une image
-imageRedimensionne = cv2.resize(image, (400, 300))
+imageRedimensionne = cv2.resize(image, (1000, 500))
 print(imageRedimensionne.shape)
 
 # Afficher image
