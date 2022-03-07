@@ -50,3 +50,6 @@ Nous avons aussi des normes normes d'affichages des images c'est à dire qui cod
 
 Nous avons également des images en gris ou en couleur: 
 * Images en gris: qui sont codées sur 8bits (0 à 255) et constituées d'une seule couche.
+
+  
+  ![image](images/6.png)
