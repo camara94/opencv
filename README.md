@@ -35,3 +35,13 @@ Introduction à l'installation des images
 ou 
 
 ![image](images/4.png)
+
+## Des Normes
+
+Nous avons aussi des normes normes d'affichages des images c'est à dire qui codent des sur plusieurs bits:
+* VGA
+* HD
+* FHD
+* 4K
+
+![image](images/3.png)
