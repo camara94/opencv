@@ -74,3 +74,9 @@ Nous avons également des images en gris ou en couleur:
 ## Comment Créer Un Environnement
 
 [https://github.com/camara94/detection_objet_tensorflow#cr%C3%A9e-environnement](https://github.com/camara94/detection_objet_tensorflow#cr%C3%A9e-environnement)
+
+## Comment OpenCV Lit les images
+
+![image](images/9.png)
+
+
