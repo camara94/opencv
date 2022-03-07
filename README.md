@@ -17,3 +17,9 @@ Introduction à l'installation des images
 8. Contour / detection des formes
 9. Detection faciale
 
+## Projets
+
+1. Paint virtuel
+2. Scannage des Documents
+3. La detection des plaque d'immatriculation
+
