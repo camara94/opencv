@@ -23,3 +23,7 @@ Introduction à l'installation des images
 2. Scannage des Documents
 3. La detection des plaque d'immatriculation
 
+## Introduction Aux Images
+
+![image](images/1.png)
+
