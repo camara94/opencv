@@ -25,8 +25,8 @@ while True:
     s_min = cv2.getTrackbarPos('Sat Min', 'Trackbars')
     s_max = cv2.getTrackbarPos('Sat Max', 'Trackbars')
     v_min = cv2.getTrackbarPos('Val Min', 'Trackbars')
-    v_min = cv2.getTrackbarPos('Val Max', 'Trackbars')
-    print(h_min)
+    v_max = cv2.getTrackbarPos('Val Max', 'Trackbars')
+    print(h_min, h_max, s_max, s_max, v_min, v_max)
 
     cv2.imshow('image reel', image)
     cv2.imshow('image hsv', imagesHSV)
