@@ -28,6 +28,11 @@ while True:
     v_max = cv2.getTrackbarPos('Val Max', 'Trackbars')
     print(h_min, h_max, s_max, s_max, v_min, v_max)
 
+    lower = np.array([h_min, s_min, v_min])
+    upper = np.array([h_max, s_max, v_max])
+    
+    mask = cv2.inRange(imagesHSV, lower, upper)
+
     cv2.imshow('image reel', image)
     cv2.imshow('image hsv', imagesHSV)
 
