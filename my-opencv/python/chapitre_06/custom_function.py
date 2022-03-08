@@ -1,5 +1,5 @@
-import cv2
 import numpy as np
+import cv2
 
 
 def stackImages(scale, imgArray):
@@ -39,22 +39,3 @@ def stackImages(scale, imgArray):
         hor = np.hstack(imgArray)
         ver = hor
     return ver
-
-
-image_url = '../../../images/photo.jpg'
-
-image = cv2.imread(image_url)
-#image = image.resize(image, (400, 300))
-
-#imageVerticales = np.vstack((image, image))
-#imageHorizontales = np.hstack((image, image))
-
-#imageGris = cv2.cvtColor(image, cv2.COLOR_BAYER_BG2GRAY)
-
-imageVerticales = stackImages(
-    0.5, ([image, image, image], [image, image, image]))
-
-
-cv2.imshow('grouper image v', imageVerticales)
-#cv2.imshow('grouper image h', imageHorizontales)
-cv2.waitKey(0)

@@ -1,4 +1,4 @@
-import cv2
+
 
 image_ul = '../../../images/photo.jpg'
 
