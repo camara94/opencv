@@ -1,6 +1,6 @@
 import cv2
 
-path = '../../images/photo.jpg'
+path = '../../../images/photo.jpg'
 
 image = cv2.imread(path)
 image2 = cv2.imread(path)
@@ -16,3 +16,5 @@ cv2.imshow('image', image)
 cv2.imshow('image 2', image2)
 
 cv2.waitKey(0)
+
+print(ord('q'))
