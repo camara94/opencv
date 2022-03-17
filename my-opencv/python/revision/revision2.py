@@ -7,12 +7,12 @@ makityFan = pafy.new(url)
 
 video = makityFan.getbest(preftype="mp4")
 
-cap = cv2.VideoCapture(video.url)
+cap = cv2.VideoCapture(url)
 
 while True:
     ok, image = cap.read()
 
-    cv2.imshow('image', image/image.max())
+    cv2.imshow('image', image)
 
     print(image.shape)
 
